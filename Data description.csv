@@ -1,0 +1,32 @@
+﻿Feature Name,Description,Source,Link
+Diversity Index,Diversity index per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+ACS Households Below the Poverty Level,% below the poverty level per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+MOE Households Below the Poverty Level,Margin of error of % below the poverty level per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+VACANT_CY,% of household vacancy per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+"Lead in water above 15 ppb per school district, distributed to zipcodes",Presence of elevated lead water levels in schools within zip codes,NYS department of Public Health,https://www.health.ny.gov/environmental/water/drinking/lead/lead_testing_of_school_drinking_water.htm
+Year,Year  when lead was measured in water,NYS department of Public Health,https://www.health.ny.gov/environmental/water/drinking/lead/lead_testing_of_school_drinking_water.htm
+HPI,House Price Index per zip code,Federal Housing Finance Agency,https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index.aspx
+% Children,% children per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% ACS Population Age 25 or Older by Educational Attainment: High School Diploma,% Population with High School Diploma per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% MOE Population Age 25 or Older by Educational Attainment: High School Diploma,Margin of error of % Population with High School Diploma per ziip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% ACS Population 3+ Enrolled in Nursery/Preschool,% children 3+ enrolled in nursery or preschool per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% MOE Population 3+ Enrolled in Nursery/Preschool,Margin of error of % children 3+ enrolled in nursery or preschool,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Hispanic,% Hispanic population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% White,% White population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Black,% Black population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Asian,% Asian population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Hispanic Asian,% Hispanic-Asian population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Hispanic White,% Hispanic-White population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Hispanic Black,% Hispanic-Black population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Hispanic Other Race,% Hispanic-other race population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Hispanic Population Reporting Two or More Races,% Hispanic Population Reporting Two or More Races per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Hispanic American Indian/Alaska Native,% Hispanic American Indian/Alaska Native population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% American Indian/Alaska Native,% American Indian/Alaska Native population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Other Race,% Other Race population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Pacific Islander,% Pacific Islander population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% Population of Two or More Races,% Population of Two or More Races per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+% White Non-Hispanic,% White Non-Hispanic population per zip code,US Census 2015,https://www.census.gov/programs-surveys/acs
+label,"Binary label where 1 = over 6% of children exposed to lead, 0 = less than 6% children exposed",NYS department of Public Health,https://www.health.ny.gov/environmental/lead/
+Percent,% children with reported elevated Lead Blood Levels (BLL) per zip code,NYS department of Public Health,https://www.health.ny.gov/environmental/lead/
+geometry,Zip code geometry for GeoPandas,Obtained using GIS,
+POSTAL,Zip code,Obtained using GIS,
